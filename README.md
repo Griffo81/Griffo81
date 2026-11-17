@@ -1,60 +1,35 @@
-# Hello, I'm Mark
-<a href="https://www.linkedin.com/in/connect-with-mark-griffiths/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Mark 👋
+
+<div>
+  <a href="https://www.linkedin.com/in/connect-with-mark-griffiths/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/mark.a.griffiths81">
+    <img src="https://img.shields.io/badge/-Linktree-43E55E?&style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+</div>
 
 ## Introduction
 
-I'm an engineering leader with over 20 years in tech, focused on building high-performing teams, fostering healthy software cultures, and delivering significant business value. Throughout my career, I've led complex software delivery using Agile, SAFe, and Lean.  
-I'm currently taking a cybersecurity course to formalise my experience.
+I'm an engineering leader and technical delivery expert with over 20 years of experience in tech, focused on building high-performing teams, fostering healthy software cultures, and delivering significant business value. Throughout my career, I've led complex software delivery, infrastructure refreshes, and security initiatives (including PCI-DSS compliance, TLS 1.2 upgrades, and continuous security testing pipelines) using Agile, SAFe, and Lean methodologies. 
+
+Recently, I expanded my technical toolkit through a Data Science Bootcamp (applying AI and LLM-based tools to engineering workflows) and am currently completing a dedicated cybersecurity programme to formalise my security experience.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My background in software engineering, systems analysis, and data science has fueled a strong passion for defensive security.  
+I am now building on those skills and experience by taking an L3 Cyber Security course to deepen my understanding of cyber threats, risk management, and advanced protection techniques.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Certifications & Qualifications
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure_Data_Fundamentals_(DP--900)-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified: Azure Data Fundamentals" />
+  <img src="https://img.shields.io/badge/-ITIL_Foundation_v5-662D91?&style=for-the-badge&logoColor=white" alt="ITIL Foundation v5" />
+  <img src="https://img.shields.io/badge/-Certified_SAFe_5_Scrum_Master-005A9C?&style=for-the-badge&logoColor=white" alt="Certified SAFe 5 Scrum Master" />
+  <img src="https://img.shields.io/badge/-PRINCE2_Practitioner-008080?&style=for-the-badge&logoColor=white" alt="PRINCE2 Practitioner" />
+  <img src="https://img.shields.io/badge/-APM_PMQ-1B365D?&style=for-the-badge&logoColor=white" alt="APM Project Management Qualification" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+- **[Data Science Bootcamp Portfolio](https://www.hyperiondev.com/portfolio/MG25070018647/)** – Applied data analysis, Python scripting, and AI/LLM tooling projects from the University of Manchester Bootcamp.
