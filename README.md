@@ -15,11 +15,6 @@ I'm an engineering leader and technical delivery expert with over 20 years of ex
 
 Recently, I expanded my technical toolkit through a Data Science Bootcamp (applying AI and LLM-based tools to engineering workflows) and am currently completing a dedicated cybersecurity programme to formalise my security experience.
 
-## Objective
-
-My background in software engineering, systems analysis, and data science has fueled a strong passion for defensive security.  
-I am now building on those skills and experience by taking an L3 Cyber Security course to deepen my understanding of cyber threats, risk management, and advanced protection techniques.
-
 ## Certifications & Qualifications
 
 <div>
@@ -29,7 +24,12 @@ I am now building on those skills and experience by taking an L3 Cyber Security 
   <img src="https://img.shields.io/badge/-PRINCE2_Practitioner-008080?&style=for-the-badge&logoColor=white" alt="PRINCE2 Practitioner" />
   <img src="https://img.shields.io/badge/-APM_PMQ-1B365D?&style=for-the-badge&logoColor=white" alt="APM Project Management Qualification" />
 </div>
+  
+  **[Data Science Bootcamp Portfolio](https://www.hyperiondev.com/portfolio/MG25070018647/)** – Applied data analysis, Python scripting, and AI/LLM tooling projects from the University of Manchester Bootcamp.
 
 ## Projects
 
-- **[Data Science Bootcamp Portfolio](https://www.hyperiondev.com/portfolio/MG25070018647/)** – Applied data analysis, Python scripting, and AI/LLM tooling projects from the University of Manchester Bootcamp.
+## Other Interests
+
+I'm an avid gamer, mainly on PlayStation.  
+<a href="https://psnprofiles.com/longrangeeffort"><img src="https://card.psnprofiles.com/2/longrangeeffort.png" border="0"></a>
